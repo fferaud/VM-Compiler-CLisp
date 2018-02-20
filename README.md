@@ -1,9 +1,9 @@
 
-# VM and compiler LISP by NOVELLON Florian and FERAUD Fabien
+# VM and compiler CLISP by NOVELLON Florian and FERAUD Fabien
 
 ## Study project 
-* Create LISP compiler of factorial and fibonacci LISP into pseudo code MIPS
-* Create LISP VM which can load pseudo code MIPS and execute him
+* Create CLISP compiler of factorial and fibonacci CLISP into pseudo code MIPS
+* Create CLISP VM which can load pseudo code MIPS and execute him
 
 ## Manual
 * Launch clisp in the project directory
